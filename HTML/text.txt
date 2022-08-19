@@ -1,0 +1,11 @@
+<!DOCTYPE = html>
+<html>
+    <head>
+        <meta name = "description" content = "....">
+        <meta name = "keyword" content = "html, css">
+        <meta name = "author" content = "Tanuj Mishra">
+        <title>Favicon and Meta</title>
+    </head>
+    <body>
+    </body>
+</html>
